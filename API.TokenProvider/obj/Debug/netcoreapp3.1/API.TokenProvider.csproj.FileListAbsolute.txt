@@ -1,0 +1,17 @@
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\bin\Debug\netcoreapp3.1\API.TokenProvider.exe
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\obj\Debug\netcoreapp3.1\API.TokenProvider.AssemblyInfoInputs.cache
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\obj\Debug\netcoreapp3.1\API.TokenProvider.AssemblyInfo.cs
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\obj\Debug\netcoreapp3.1\API.TokenProvider.csproj.CopyComplete
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\bin\Debug\netcoreapp3.1\API.TokenProvider.deps.json
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\bin\Debug\netcoreapp3.1\API.TokenProvider.runtimeconfig.json
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\bin\Debug\netcoreapp3.1\API.TokenProvider.runtimeconfig.dev.json
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\bin\Debug\netcoreapp3.1\API.TokenProvider.dll
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\bin\Debug\netcoreapp3.1\API.TokenProvider.pdb
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\obj\Debug\netcoreapp3.1\API.TokenProvider.csproj.CoreCompileInputs.cache
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\obj\Debug\netcoreapp3.1\API.TokenProvider.dll
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\obj\Debug\netcoreapp3.1\API.TokenProvider.pdb
+C:\Users\nadhaduk\source\repos\UserManagement\API.TokenProvider\obj\Debug\netcoreapp3.1\API.TokenProvider.genruntimeconfig.cache

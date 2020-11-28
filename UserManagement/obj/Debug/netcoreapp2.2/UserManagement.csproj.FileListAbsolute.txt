@@ -1,0 +1,4 @@
+C:\Users\nadhaduk\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.csprojAssemblyReference.cache
+C:\Users\nadhaduk\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.AssemblyInfoInputs.cache
+C:\Users\nadhaduk\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.AssemblyInfo.cs
+C:\Users\nadhaduk\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.csproj.CoreCompileInputs.cache
