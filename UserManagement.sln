@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagement", "UserManagement\UserManagement.csproj", "{FE5EBC0E-220E-48A2-BB57-4E20F42E7299}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserManagement", "UserManagement\UserManagement.csproj", "{FE5EBC0E-220E-48A2-BB57-4E20F42E7299}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.TokenProvider", "API.TokenProvider\API.TokenProvider.csproj", "{C9316A9C-1BE8-49E7-BC56-A890CDDBE6C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.TokenProvider", "API.TokenProvider\API.TokenProvider.csproj", "{C9316A9C-1BE8-49E7-BC56-A890CDDBE6C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieAuthentication", "CookieAuthentication\CookieAuthentication.csproj", "{92B9F3E6-5780-41A6-986F-B3F3F59CEDB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C9316A9C-1BE8-49E7-BC56-A890CDDBE6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9316A9C-1BE8-49E7-BC56-A890CDDBE6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9316A9C-1BE8-49E7-BC56-A890CDDBE6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B9F3E6-5780-41A6-986F-B3F3F59CEDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B9F3E6-5780-41A6-986F-B3F3F59CEDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B9F3E6-5780-41A6-986F-B3F3F59CEDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B9F3E6-5780-41A6-986F-B3F3F59CEDB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

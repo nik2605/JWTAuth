@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IXDt6ncO7HaC4CNWtwXn18lQ+IydqoW/a3eWUEPN7tGpCRKvH0MDBjXctulkWkmI8txfjCLp362wu4sO9Cn8jA==",
+  "dgSpecHash": "vCzIm+fyXcNC2d0mfVtWBgan7bRIFkFX0aRKMLMTk79LhpEs4mzwf/aCHdk9PvEbFSymsWwdEu2LYQQRus7Ivg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nadhaduk\\source\\repos\\UserManagement\\API.TokenProvider\\API.TokenProvider.csproj",
+  "projectFilePath": "C:\\Learning\\JWTAuth\\API.TokenProvider\\API.TokenProvider.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nadhaduk\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\nadhaduk\\.nuget\\packages\\microsoft.identitymodel.logging\\1.1.0\\microsoft.identitymodel.logging.1.1.0.nupkg.sha512",

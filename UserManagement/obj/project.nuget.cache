@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WNH5XqMqhWArVnTz3nYTeQ8JwNDvltC6WUidkGgaZAQZXVpAFR7zkANii1xtVUseCyp1btvp9XFLWrkIlwopKQ==",
+  "dgSpecHash": "B/XlKpGNk5Qq55hHbRLXBRGB31x+20D2OZFVKfaLlXbkluwQobxACY4tgkd+dPs/QKwSLFRW+RFPmLNjTpBVBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nadhaduk\\source\\repos\\UserManagement\\UserManagement\\UserManagement.csproj",
+  "projectFilePath": "C:\\Learning\\JWTAuth\\UserManagement\\UserManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nadhaduk\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\nadhaduk\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.6\\microsoft.aspnetcore.authentication.jwtbearer.3.1.6.nupkg.sha512",

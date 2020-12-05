@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Learning\\JWTAuth\\API.TokenProvider\\API.TokenProvider.csproj": {}
+    "C:\\Learning\\JWTAuth\\CookieAuthentication\\CookieAuthentication.csproj": {}
   },
   "projects": {
-    "C:\\Learning\\JWTAuth\\API.TokenProvider\\API.TokenProvider.csproj": {
+    "C:\\Learning\\JWTAuth\\CookieAuthentication\\CookieAuthentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Learning\\JWTAuth\\API.TokenProvider\\API.TokenProvider.csproj",
-        "projectName": "API.TokenProvider",
-        "projectPath": "C:\\Learning\\JWTAuth\\API.TokenProvider\\API.TokenProvider.csproj",
+        "projectUniqueName": "C:\\Learning\\JWTAuth\\CookieAuthentication\\CookieAuthentication.csproj",
+        "projectName": "CookieAuthentication",
+        "projectPath": "C:\\Learning\\JWTAuth\\CookieAuthentication\\CookieAuthentication.csproj",
         "packagesPath": "C:\\Users\\nadhaduk\\.nuget\\packages\\",
-        "outputPath": "C:\\Learning\\JWTAuth\\API.TokenProvider\\obj\\",
+        "outputPath": "C:\\Learning\\JWTAuth\\CookieAuthentication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,16 +42,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.IdentityModel.Tokens": {
-              "target": "Package",
-              "version": "[5.1.0, )"
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[5.1.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -63,6 +53,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

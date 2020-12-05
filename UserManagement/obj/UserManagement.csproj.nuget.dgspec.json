@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nadhaduk\\source\\repos\\UserManagement\\UserManagement\\UserManagement.csproj": {}
+    "C:\\Learning\\JWTAuth\\UserManagement\\UserManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nadhaduk\\source\\repos\\UserManagement\\UserManagement\\UserManagement.csproj": {
+    "C:\\Learning\\JWTAuth\\UserManagement\\UserManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nadhaduk\\source\\repos\\UserManagement\\UserManagement\\UserManagement.csproj",
+        "projectUniqueName": "C:\\Learning\\JWTAuth\\UserManagement\\UserManagement.csproj",
         "projectName": "UserManagement",
-        "projectPath": "C:\\Users\\nadhaduk\\source\\repos\\UserManagement\\UserManagement\\UserManagement.csproj",
+        "projectPath": "C:\\Learning\\JWTAuth\\UserManagement\\UserManagement.csproj",
         "packagesPath": "C:\\Users\\nadhaduk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nadhaduk\\source\\repos\\UserManagement\\UserManagement\\obj\\",
+        "outputPath": "C:\\Learning\\JWTAuth\\UserManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
